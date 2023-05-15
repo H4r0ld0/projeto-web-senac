@@ -1,0 +1,66 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background: linear-gradient;
+    background: #skyblue;
+}
+
+header {
+    background: #skyblue;
+    width: auto;
+    padding: 2px 0 0 20px;
+    text-align: center;
+    border: 1px solid;
+}
+
+.meu-cabecalho {
+   width: auto;
+
+}
+img {
+    background: #skyblue;
+    margin: 30px 0 0 0;
+    position: relative;
+    right: right;
+    border-radius: 10px;
+}
+
+h1 {
+    margin: auto;
+    position: relative;
+    left: 1em;
+    bottom: 4em;
+    font-weight: bold;
+    font-size: 1em;
+}
+
+.container-conteudo {
+    text-align: center;
+    line-height: 3em;
+    width: auto;
+}
+
+h2 {
+    font-weight: bold;
+    text-align: center;
+    margin: 60px 0 0  0 ;
+}
+li p {
+    line-height: 2em;
+    text-align: center;
+}
+
+footer {
+    background: #skyblue;
+    width: auto;
+}
+
+.copyright {
+    text-align: center;
+    margin-top: 40px;
+    padding: 60px 0 100px 0;
+}
+
+.saldacao{
+    font-weight: bold;
+    text-align: center;
+}
